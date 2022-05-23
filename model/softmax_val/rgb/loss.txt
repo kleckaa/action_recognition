@@ -1,0 +1,240 @@
+Train: [001/120]	Loss: 5.8463	Top@1: 3.0625	Top@5: 10.9000	Speed: 199.89 ms/batch	Data loading: 2.57 ms/batch
+Val  : [001/120]	Loss: 3.6917	Top@1: 26.4000	Top@5: 55.0000	Speed: 96.97 ms/batch
+Train: [002/120]	Loss: 4.5453	Top@1: 15.3375	Top@5: 42.4250	Speed: 194.36 ms/batch	Data loading: 1.82 ms/batch
+Val  : [002/120]	Loss: 2.5075	Top@1: 36.0000	Top@5: 73.4000	Speed: 96.96 ms/batch
+Train: [003/120]	Loss: 3.4521	Top@1: 30.4500	Top@5: 66.7000	Speed: 194.38 ms/batch	Data loading: 1.87 ms/batch
+Val  : [003/120]	Loss: 2.0934	Top@1: 42.6000	Top@5: 82.6000	Speed: 99.31 ms/batch
+Train: [004/120]	Loss: 2.6752	Top@1: 44.2875	Top@5: 81.5250	Speed: 194.24 ms/batch	Data loading: 1.87 ms/batch
+Val  : [004/120]	Loss: 1.7954	Top@1: 49.8000	Top@5: 84.6000	Speed: 98.64 ms/batch
+Train: [005/120]	Loss: 2.1098	Top@1: 56.6125	Top@5: 89.9125	Speed: 194.24 ms/batch	Data loading: 1.84 ms/batch
+Val  : [005/120]	Loss: 1.5931	Top@1: 56.4000	Top@5: 86.6000	Speed: 98.25 ms/batch
+Train: [006/120]	Loss: 1.6991	Top@1: 65.3375	Top@5: 93.9875	Speed: 194.34 ms/batch	Data loading: 1.86 ms/batch
+Val  : [006/120]	Loss: 1.5017	Top@1: 59.0000	Top@5: 88.8000	Speed: 98.12 ms/batch
+Train: [007/120]	Loss: 1.3913	Top@1: 72.6500	Top@5: 96.2875	Speed: 194.32 ms/batch	Data loading: 1.95 ms/batch
+Val  : [007/120]	Loss: 1.3806	Top@1: 60.8000	Top@5: 89.8000	Speed: 99.58 ms/batch
+Train: [008/120]	Loss: 1.1517	Top@1: 78.3000	Top@5: 97.5500	Speed: 194.31 ms/batch	Data loading: 1.96 ms/batch
+Val  : [008/120]	Loss: 1.3605	Top@1: 63.2000	Top@5: 91.6000	Speed: 97.93 ms/batch
+Train: [009/120]	Loss: 0.9659	Top@1: 83.1000	Top@5: 98.3500	Speed: 194.31 ms/batch	Data loading: 1.93 ms/batch
+Val  : [009/120]	Loss: 1.3218	Top@1: 64.4000	Top@5: 92.4000	Speed: 97.88 ms/batch
+Train: [010/120]	Loss: 0.8194	Top@1: 85.9000	Top@5: 99.0000	Speed: 194.38 ms/batch	Data loading: 1.86 ms/batch
+Val  : [010/120]	Loss: 1.2161	Top@1: 66.6000	Top@5: 90.8000	Speed: 98.55 ms/batch
+Train: [011/120]	Loss: 0.6938	Top@1: 89.0625	Top@5: 99.4000	Speed: 194.27 ms/batch	Data loading: 1.77 ms/batch
+Val  : [011/120]	Loss: 1.1846	Top@1: 67.2000	Top@5: 91.8000	Speed: 100.65 ms/batch
+Train: [012/120]	Loss: 0.6167	Top@1: 91.4625	Top@5: 99.6125	Speed: 194.29 ms/batch	Data loading: 1.85 ms/batch
+Val  : [012/120]	Loss: 1.1973	Top@1: 68.4000	Top@5: 92.6000	Speed: 98.29 ms/batch
+Train: [013/120]	Loss: 0.5444	Top@1: 93.0125	Top@5: 99.7125	Speed: 194.34 ms/batch	Data loading: 1.95 ms/batch
+Val  : [013/120]	Loss: 1.1760	Top@1: 68.4000	Top@5: 93.0000	Speed: 98.65 ms/batch
+Train: [014/120]	Loss: 0.4924	Top@1: 94.7375	Top@5: 99.8125	Speed: 194.40 ms/batch	Data loading: 1.94 ms/batch
+Val  : [014/120]	Loss: 1.1892	Top@1: 69.2000	Top@5: 93.0000	Speed: 99.27 ms/batch
+Train: [015/120]	Loss: 0.4491	Top@1: 95.4125	Top@5: 99.8625	Speed: 194.41 ms/batch	Data loading: 2.03 ms/batch
+Val  : [015/120]	Loss: 1.1449	Top@1: 70.4000	Top@5: 93.4000	Speed: 99.65 ms/batch
+Train: [016/120]	Loss: 0.4236	Top@1: 95.9500	Top@5: 99.9125	Speed: 194.40 ms/batch	Data loading: 1.92 ms/batch
+Val  : [016/120]	Loss: 1.1401	Top@1: 71.4000	Top@5: 94.0000	Speed: 99.71 ms/batch
+Train: [017/120]	Loss: 0.4021	Top@1: 96.4375	Top@5: 99.9250	Speed: 194.33 ms/batch	Data loading: 1.87 ms/batch
+Val  : [017/120]	Loss: 1.1714	Top@1: 70.2000	Top@5: 92.2000	Speed: 100.80 ms/batch
+Train: [018/120]	Loss: 0.3934	Top@1: 96.8375	Top@5: 99.8875	Speed: 194.32 ms/batch	Data loading: 1.80 ms/batch
+Val  : [018/120]	Loss: 1.1488	Top@1: 70.8000	Top@5: 93.2000	Speed: 100.43 ms/batch
+Train: [019/120]	Loss: 0.3803	Top@1: 97.0625	Top@5: 99.8875	Speed: 194.32 ms/batch	Data loading: 1.82 ms/batch
+Val  : [019/120]	Loss: 1.1232	Top@1: 69.6000	Top@5: 93.2000	Speed: 100.96 ms/batch
+Train: [020/120]	Loss: 0.3730	Top@1: 97.3750	Top@5: 99.9375	Speed: 194.28 ms/batch	Data loading: 1.88 ms/batch
+Val  : [020/120]	Loss: 1.1215	Top@1: 70.0000	Top@5: 93.2000	Speed: 100.94 ms/batch
+Train: [021/120]	Loss: 0.5514	Top@1: 90.8125	Top@5: 99.6250	Speed: 194.45 ms/batch	Data loading: 2.01 ms/batch
+Val  : [021/120]	Loss: 1.4579	Top@1: 66.2000	Top@5: 90.8000	Speed: 100.53 ms/batch
+Train: [022/120]	Loss: 0.4943	Top@1: 92.3250	Top@5: 99.7125	Speed: 194.42 ms/batch	Data loading: 2.01 ms/batch
+Val  : [022/120]	Loss: 1.3058	Top@1: 67.2000	Top@5: 91.4000	Speed: 100.79 ms/batch
+Train: [023/120]	Loss: 0.4307	Top@1: 93.4250	Top@5: 99.6875	Speed: 194.69 ms/batch	Data loading: 2.20 ms/batch
+Val  : [023/120]	Loss: 1.2588	Top@1: 68.0000	Top@5: 91.0000	Speed: 100.10 ms/batch
+Train: [024/120]	Loss: 0.3582	Top@1: 95.0125	Top@5: 99.8250	Speed: 194.66 ms/batch	Data loading: 2.29 ms/batch
+Val  : [024/120]	Loss: 1.4210	Top@1: 67.2000	Top@5: 90.8000	Speed: 102.25 ms/batch
+Train: [025/120]	Loss: 0.3019	Top@1: 96.3000	Top@5: 99.8875	Speed: 194.51 ms/batch	Data loading: 2.16 ms/batch
+Val  : [025/120]	Loss: 1.3478	Top@1: 69.2000	Top@5: 91.0000	Speed: 100.18 ms/batch
+Train: [026/120]	Loss: 0.2561	Top@1: 97.1125	Top@5: 99.9125	Speed: 194.75 ms/batch	Data loading: 2.32 ms/batch
+Val  : [026/120]	Loss: 1.2952	Top@1: 71.6000	Top@5: 90.8000	Speed: 99.24 ms/batch
+Train: [027/120]	Loss: 0.2123	Top@1: 98.0125	Top@5: 99.9250	Speed: 194.74 ms/batch	Data loading: 2.25 ms/batch
+Val  : [027/120]	Loss: 1.2481	Top@1: 71.2000	Top@5: 90.8000	Speed: 100.81 ms/batch
+Train: [028/120]	Loss: 0.1859	Top@1: 98.5750	Top@5: 99.9750	Speed: 194.73 ms/batch	Data loading: 2.20 ms/batch
+Val  : [028/120]	Loss: 1.2320	Top@1: 71.0000	Top@5: 92.2000	Speed: 102.05 ms/batch
+Train: [029/120]	Loss: 0.1483	Top@1: 99.2625	Top@5: 99.9875	Speed: 194.52 ms/batch	Data loading: 2.16 ms/batch
+Val  : [029/120]	Loss: 1.2872	Top@1: 71.2000	Top@5: 92.6000	Speed: 103.07 ms/batch
+Train: [030/120]	Loss: 0.1406	Top@1: 99.3000	Top@5: 99.9875	Speed: 194.87 ms/batch	Data loading: 2.31 ms/batch
+Val  : [030/120]	Loss: 1.2524	Top@1: 72.4000	Top@5: 91.8000	Speed: 102.94 ms/batch
+Train: [031/120]	Loss: 0.1254	Top@1: 99.3375	Top@5: 99.9750	Speed: 194.55 ms/batch	Data loading: 2.17 ms/batch
+Val  : [031/120]	Loss: 1.2317	Top@1: 72.4000	Top@5: 93.0000	Speed: 108.52 ms/batch
+Train: [032/120]	Loss: 0.1120	Top@1: 99.6000	Top@5: 99.9875	Speed: 194.73 ms/batch	Data loading: 2.14 ms/batch
+Val  : [032/120]	Loss: 1.2350	Top@1: 71.4000	Top@5: 92.4000	Speed: 120.77 ms/batch
+Train: [033/120]	Loss: 0.1042	Top@1: 99.6125	Top@5: 99.9625	Speed: 194.43 ms/batch	Data loading: 2.11 ms/batch
+Val  : [033/120]	Loss: 1.2315	Top@1: 72.6000	Top@5: 92.4000	Speed: 101.57 ms/batch
+Train: [034/120]	Loss: 0.0958	Top@1: 99.7000	Top@5: 99.9625	Speed: 194.66 ms/batch	Data loading: 2.18 ms/batch
+Val  : [034/120]	Loss: 1.1945	Top@1: 72.2000	Top@5: 92.4000	Speed: 103.40 ms/batch
+Train: [035/120]	Loss: 0.0898	Top@1: 99.7750	Top@5: 100.0000	Speed: 194.69 ms/batch	Data loading: 2.24 ms/batch
+Val  : [035/120]	Loss: 1.2318	Top@1: 72.6000	Top@5: 92.8000	Speed: 104.04 ms/batch
+Train: [036/120]	Loss: 0.0873	Top@1: 99.8500	Top@5: 100.0000	Speed: 194.44 ms/batch	Data loading: 2.05 ms/batch
+Val  : [036/120]	Loss: 1.1584	Top@1: 72.6000	Top@5: 92.6000	Speed: 103.06 ms/batch
+Train: [037/120]	Loss: 0.0821	Top@1: 99.8625	Top@5: 100.0000	Speed: 194.61 ms/batch	Data loading: 2.17 ms/batch
+Val  : [037/120]	Loss: 1.1941	Top@1: 73.0000	Top@5: 93.0000	Speed: 103.94 ms/batch
+Train: [038/120]	Loss: 0.0800	Top@1: 99.9000	Top@5: 100.0000	Speed: 194.63 ms/batch	Data loading: 2.11 ms/batch
+Val  : [038/120]	Loss: 1.1681	Top@1: 73.4000	Top@5: 92.2000	Speed: 103.38 ms/batch
+Train: [039/120]	Loss: 0.0788	Top@1: 99.8125	Top@5: 100.0000	Speed: 194.60 ms/batch	Data loading: 2.20 ms/batch
+Val  : [039/120]	Loss: 1.1715	Top@1: 73.0000	Top@5: 92.8000	Speed: 102.64 ms/batch
+Train: [040/120]	Loss: 0.0803	Top@1: 99.8250	Top@5: 99.9875	Speed: 194.62 ms/batch	Data loading: 2.21 ms/batch
+Val  : [040/120]	Loss: 1.2021	Top@1: 72.8000	Top@5: 92.8000	Speed: 106.70 ms/batch
+Train: [041/120]	Loss: 0.1215	Top@1: 99.3875	Top@5: 99.9750	Speed: 194.64 ms/batch	Data loading: 2.13 ms/batch
+Val  : [041/120]	Loss: 1.2869	Top@1: 69.4000	Top@5: 92.4000	Speed: 103.39 ms/batch
+Train: [042/120]	Loss: 0.1390	Top@1: 99.0250	Top@5: 99.9500	Speed: 194.56 ms/batch	Data loading: 2.31 ms/batch
+Val  : [042/120]	Loss: 1.2526	Top@1: 71.8000	Top@5: 90.4000	Speed: 103.38 ms/batch
+Train: [043/120]	Loss: 0.1301	Top@1: 99.1375	Top@5: 99.9875	Speed: 194.46 ms/batch	Data loading: 2.07 ms/batch
+Val  : [043/120]	Loss: 1.2414	Top@1: 71.6000	Top@5: 91.0000	Speed: 103.49 ms/batch
+Train: [044/120]	Loss: 0.1165	Top@1: 99.3500	Top@5: 99.9625	Speed: 194.63 ms/batch	Data loading: 2.26 ms/batch
+Val  : [044/120]	Loss: 1.3263	Top@1: 70.6000	Top@5: 91.0000	Speed: 102.74 ms/batch
+Train: [045/120]	Loss: 0.1157	Top@1: 99.2625	Top@5: 99.9750	Speed: 194.63 ms/batch	Data loading: 2.13 ms/batch
+Val  : [045/120]	Loss: 1.2635	Top@1: 70.8000	Top@5: 91.4000	Speed: 107.32 ms/batch
+Train: [046/120]	Loss: 0.0910	Top@1: 99.7000	Top@5: 100.0000	Speed: 194.51 ms/batch	Data loading: 2.12 ms/batch
+Val  : [046/120]	Loss: 1.2774	Top@1: 71.2000	Top@5: 91.4000	Speed: 105.30 ms/batch
+Train: [047/120]	Loss: 0.0825	Top@1: 99.6125	Top@5: 99.9875	Speed: 194.54 ms/batch	Data loading: 2.17 ms/batch
+Val  : [047/120]	Loss: 1.2946	Top@1: 70.4000	Top@5: 91.2000	Speed: 106.39 ms/batch
+Train: [048/120]	Loss: 0.0761	Top@1: 99.7625	Top@5: 99.9500	Speed: 194.60 ms/batch	Data loading: 2.12 ms/batch
+Val  : [048/120]	Loss: 1.2746	Top@1: 72.4000	Top@5: 91.4000	Speed: 111.73 ms/batch
+Train: [049/120]	Loss: 0.0715	Top@1: 99.8250	Top@5: 99.9875	Speed: 194.58 ms/batch	Data loading: 2.18 ms/batch
+Val  : [049/120]	Loss: 1.2305	Top@1: 72.6000	Top@5: 91.4000	Speed: 105.41 ms/batch
+Train: [050/120]	Loss: 0.0600	Top@1: 99.8625	Top@5: 100.0000	Speed: 194.39 ms/batch	Data loading: 1.98 ms/batch
+Val  : [050/120]	Loss: 1.1703	Top@1: 71.6000	Top@5: 92.2000	Speed: 102.29 ms/batch
+Train: [051/120]	Loss: 0.0575	Top@1: 99.9250	Top@5: 100.0000	Speed: 194.62 ms/batch	Data loading: 2.28 ms/batch
+Val  : [051/120]	Loss: 1.1643	Top@1: 74.6000	Top@5: 92.2000	Speed: 103.21 ms/batch
+Train: [052/120]	Loss: 0.0522	Top@1: 99.9125	Top@5: 100.0000	Speed: 194.42 ms/batch	Data loading: 2.22 ms/batch
+Val  : [052/120]	Loss: 1.1655	Top@1: 73.2000	Top@5: 91.6000	Speed: 107.58 ms/batch
+Train: [053/120]	Loss: 0.0491	Top@1: 99.9000	Top@5: 100.0000	Speed: 194.94 ms/batch	Data loading: 1.90 ms/batch
+Val  : [053/120]	Loss: 1.1790	Top@1: 74.2000	Top@5: 92.0000	Speed: 114.33 ms/batch
+Train: [054/120]	Loss: 0.0481	Top@1: 99.8750	Top@5: 100.0000	Speed: 195.07 ms/batch	Data loading: 2.02 ms/batch
+Val  : [054/120]	Loss: 1.1976	Top@1: 73.8000	Top@5: 92.2000	Speed: 104.93 ms/batch
+Train: [055/120]	Loss: 0.0473	Top@1: 99.9375	Top@5: 100.0000	Speed: 194.93 ms/batch	Data loading: 2.00 ms/batch
+Val  : [055/120]	Loss: 1.1777	Top@1: 73.0000	Top@5: 91.8000	Speed: 112.86 ms/batch
+Train: [056/120]	Loss: 0.0445	Top@1: 99.9375	Top@5: 99.9875	Speed: 194.69 ms/batch	Data loading: 2.19 ms/batch
+Val  : [056/120]	Loss: 1.1886	Top@1: 73.8000	Top@5: 91.8000	Speed: 106.52 ms/batch
+Train: [057/120]	Loss: 0.0456	Top@1: 99.9250	Top@5: 99.9875	Speed: 194.57 ms/batch	Data loading: 2.07 ms/batch
+Val  : [057/120]	Loss: 1.1522	Top@1: 73.6000	Top@5: 92.4000	Speed: 105.75 ms/batch
+Train: [058/120]	Loss: 0.0443	Top@1: 99.9375	Top@5: 99.9875	Speed: 194.49 ms/batch	Data loading: 2.11 ms/batch
+Val  : [058/120]	Loss: 1.1354	Top@1: 74.0000	Top@5: 92.2000	Speed: 105.40 ms/batch
+Train: [059/120]	Loss: 0.0425	Top@1: 99.9375	Top@5: 100.0000	Speed: 194.49 ms/batch	Data loading: 2.12 ms/batch
+Val  : [059/120]	Loss: 1.1731	Top@1: 73.2000	Top@5: 91.8000	Speed: 104.88 ms/batch
+Train: [060/120]	Loss: 0.0430	Top@1: 99.9250	Top@5: 100.0000	Speed: 194.58 ms/batch	Data loading: 2.18 ms/batch
+Val  : [060/120]	Loss: 1.1649	Top@1: 74.2000	Top@5: 91.6000	Speed: 106.35 ms/batch
+Train: [061/120]	Loss: 0.0639	Top@1: 99.8250	Top@5: 100.0000	Speed: 194.41 ms/batch	Data loading: 2.15 ms/batch
+Val  : [061/120]	Loss: 1.2632	Top@1: 71.6000	Top@5: 91.4000	Speed: 105.56 ms/batch
+Train: [062/120]	Loss: 0.0685	Top@1: 99.8625	Top@5: 99.9875	Speed: 194.57 ms/batch	Data loading: 2.03 ms/batch
+Val  : [062/120]	Loss: 1.3101	Top@1: 70.6000	Top@5: 90.4000	Speed: 101.46 ms/batch
+Train: [063/120]	Loss: 0.0685	Top@1: 99.7625	Top@5: 99.9875	Speed: 194.59 ms/batch	Data loading: 2.14 ms/batch
+Val  : [063/120]	Loss: 1.3607	Top@1: 68.8000	Top@5: 91.6000	Speed: 101.10 ms/batch
+Train: [064/120]	Loss: 0.0722	Top@1: 99.7875	Top@5: 99.9750	Speed: 194.50 ms/batch	Data loading: 2.04 ms/batch
+Val  : [064/120]	Loss: 1.2192	Top@1: 71.2000	Top@5: 91.6000	Speed: 100.85 ms/batch
+Train: [065/120]	Loss: 0.0665	Top@1: 99.7500	Top@5: 100.0000	Speed: 194.50 ms/batch	Data loading: 1.94 ms/batch
+Val  : [065/120]	Loss: 1.3353	Top@1: 69.6000	Top@5: 91.0000	Speed: 100.70 ms/batch
+Train: [066/120]	Loss: 0.0607	Top@1: 99.8750	Top@5: 100.0000	Speed: 194.36 ms/batch	Data loading: 1.82 ms/batch
+Val  : [066/120]	Loss: 1.2328	Top@1: 72.2000	Top@5: 91.4000	Speed: 101.03 ms/batch
+Train: [067/120]	Loss: 0.0582	Top@1: 99.8000	Top@5: 99.9875	Speed: 194.40 ms/batch	Data loading: 1.95 ms/batch
+Val  : [067/120]	Loss: 1.2545	Top@1: 70.2000	Top@5: 91.2000	Speed: 99.85 ms/batch
+Train: [068/120]	Loss: 0.0554	Top@1: 99.7750	Top@5: 99.9875	Speed: 194.43 ms/batch	Data loading: 1.90 ms/batch
+Val  : [068/120]	Loss: 1.2267	Top@1: 72.4000	Top@5: 91.4000	Speed: 99.90 ms/batch
+Train: [069/120]	Loss: 0.0485	Top@1: 99.8750	Top@5: 99.9875	Speed: 194.43 ms/batch	Data loading: 1.97 ms/batch
+Val  : [069/120]	Loss: 1.2119	Top@1: 72.8000	Top@5: 91.4000	Speed: 101.40 ms/batch
+Train: [070/120]	Loss: 0.0434	Top@1: 99.9250	Top@5: 100.0000	Speed: 194.42 ms/batch	Data loading: 1.77 ms/batch
+Val  : [070/120]	Loss: 1.2024	Top@1: 75.2000	Top@5: 92.2000	Speed: 101.10 ms/batch
+Train: [071/120]	Loss: 0.0408	Top@1: 99.9375	Top@5: 100.0000	Speed: 194.54 ms/batch	Data loading: 1.98 ms/batch
+Val  : [071/120]	Loss: 1.1648	Top@1: 73.6000	Top@5: 92.4000	Speed: 100.78 ms/batch
+Train: [072/120]	Loss: 0.0410	Top@1: 99.8750	Top@5: 100.0000	Speed: 194.53 ms/batch	Data loading: 1.83 ms/batch
+Val  : [072/120]	Loss: 1.1407	Top@1: 74.4000	Top@5: 91.2000	Speed: 98.98 ms/batch
+Train: [073/120]	Loss: 0.0388	Top@1: 99.9250	Top@5: 100.0000	Speed: 194.38 ms/batch	Data loading: 1.94 ms/batch
+Val  : [073/120]	Loss: 1.1871	Top@1: 72.8000	Top@5: 91.6000	Speed: 100.20 ms/batch
+Train: [074/120]	Loss: 0.0360	Top@1: 99.9625	Top@5: 100.0000	Speed: 194.38 ms/batch	Data loading: 1.91 ms/batch
+Val  : [074/120]	Loss: 1.1823	Top@1: 74.2000	Top@5: 92.2000	Speed: 99.17 ms/batch
+Train: [075/120]	Loss: 0.0349	Top@1: 99.9625	Top@5: 100.0000	Speed: 194.36 ms/batch	Data loading: 1.94 ms/batch
+Val  : [075/120]	Loss: 1.1720	Top@1: 73.4000	Top@5: 92.2000	Speed: 100.17 ms/batch
+Train: [076/120]	Loss: 0.0357	Top@1: 99.9375	Top@5: 100.0000	Speed: 194.35 ms/batch	Data loading: 1.83 ms/batch
+Val  : [076/120]	Loss: 1.1946	Top@1: 73.2000	Top@5: 92.2000	Speed: 99.59 ms/batch
+Train: [077/120]	Loss: 0.0356	Top@1: 99.9375	Top@5: 100.0000	Speed: 194.27 ms/batch	Data loading: 1.87 ms/batch
+Val  : [077/120]	Loss: 1.1326	Top@1: 73.2000	Top@5: 92.0000	Speed: 101.03 ms/batch
+Train: [078/120]	Loss: 0.0354	Top@1: 99.9000	Top@5: 100.0000	Speed: 194.27 ms/batch	Data loading: 1.85 ms/batch
+Val  : [078/120]	Loss: 1.1658	Top@1: 72.8000	Top@5: 92.0000	Speed: 99.65 ms/batch
+Train: [079/120]	Loss: 0.0342	Top@1: 99.9750	Top@5: 100.0000	Speed: 194.32 ms/batch	Data loading: 1.91 ms/batch
+Val  : [079/120]	Loss: 1.2337	Top@1: 73.0000	Top@5: 92.2000	Speed: 98.94 ms/batch
+Train: [080/120]	Loss: 0.0354	Top@1: 99.9625	Top@5: 100.0000	Speed: 194.28 ms/batch	Data loading: 1.85 ms/batch
+Val  : [080/120]	Loss: 1.1490	Top@1: 73.6000	Top@5: 92.2000	Speed: 99.53 ms/batch
+Train: [081/120]	Loss: 0.0489	Top@1: 99.9125	Top@5: 100.0000	Speed: 194.36 ms/batch	Data loading: 1.95 ms/batch
+Val  : [081/120]	Loss: 1.2564	Top@1: 70.4000	Top@5: 90.6000	Speed: 99.21 ms/batch
+Train: [082/120]	Loss: 0.0598	Top@1: 99.8125	Top@5: 99.9875	Speed: 194.38 ms/batch	Data loading: 1.96 ms/batch
+Val  : [082/120]	Loss: 1.2101	Top@1: 72.4000	Top@5: 91.2000	Speed: 99.14 ms/batch
+Train: [083/120]	Loss: 0.0651	Top@1: 99.7500	Top@5: 99.9875	Speed: 194.49 ms/batch	Data loading: 1.98 ms/batch
+Val  : [083/120]	Loss: 1.3183	Top@1: 71.0000	Top@5: 90.8000	Speed: 100.53 ms/batch
+Train: [084/120]	Loss: 0.0632	Top@1: 99.8375	Top@5: 100.0000	Speed: 194.44 ms/batch	Data loading: 1.88 ms/batch
+Val  : [084/120]	Loss: 1.1901	Top@1: 73.0000	Top@5: 92.2000	Speed: 100.70 ms/batch
+Train: [085/120]	Loss: 0.0585	Top@1: 99.7750	Top@5: 99.9875	Speed: 194.35 ms/batch	Data loading: 1.87 ms/batch
+Val  : [085/120]	Loss: 1.2239	Top@1: 72.0000	Top@5: 91.2000	Speed: 99.50 ms/batch
+Train: [086/120]	Loss: 0.0516	Top@1: 99.8750	Top@5: 99.9875	Speed: 194.43 ms/batch	Data loading: 1.90 ms/batch
+Val  : [086/120]	Loss: 1.1821	Top@1: 72.4000	Top@5: 93.2000	Speed: 98.58 ms/batch
+Train: [087/120]	Loss: 0.0486	Top@1: 99.9250	Top@5: 100.0000	Speed: 194.36 ms/batch	Data loading: 1.80 ms/batch
+Val  : [087/120]	Loss: 1.2046	Top@1: 72.4000	Top@5: 91.8000	Speed: 99.81 ms/batch
+Train: [088/120]	Loss: 0.0467	Top@1: 99.8875	Top@5: 99.9875	Speed: 194.28 ms/batch	Data loading: 1.88 ms/batch
+Val  : [088/120]	Loss: 1.2547	Top@1: 72.8000	Top@5: 91.0000	Speed: 99.25 ms/batch
+Train: [089/120]	Loss: 0.0420	Top@1: 99.9250	Top@5: 100.0000	Speed: 194.39 ms/batch	Data loading: 1.79 ms/batch
+Val  : [089/120]	Loss: 1.2158	Top@1: 72.8000	Top@5: 90.6000	Speed: 99.40 ms/batch
+Train: [090/120]	Loss: 0.0388	Top@1: 99.9375	Top@5: 100.0000	Speed: 194.24 ms/batch	Data loading: 2.05 ms/batch
+Val  : [090/120]	Loss: 1.1920	Top@1: 73.2000	Top@5: 91.8000	Speed: 98.66 ms/batch
+Train: [091/120]	Loss: 0.0372	Top@1: 99.9250	Top@5: 100.0000	Speed: 194.32 ms/batch	Data loading: 1.92 ms/batch
+Val  : [091/120]	Loss: 1.1784	Top@1: 73.8000	Top@5: 91.6000	Speed: 99.86 ms/batch
+Train: [092/120]	Loss: 0.0368	Top@1: 99.9000	Top@5: 100.0000	Speed: 194.32 ms/batch	Data loading: 1.90 ms/batch
+Val  : [092/120]	Loss: 1.2015	Top@1: 72.8000	Top@5: 91.6000	Speed: 95.25 ms/batch
+Train: [093/120]	Loss: 0.0346	Top@1: 99.9375	Top@5: 100.0000	Speed: 194.35 ms/batch	Data loading: 1.86 ms/batch
+Val  : [093/120]	Loss: 1.1758	Top@1: 75.0000	Top@5: 92.0000	Speed: 99.84 ms/batch
+Train: [094/120]	Loss: 0.0336	Top@1: 99.9125	Top@5: 100.0000	Speed: 194.32 ms/batch	Data loading: 1.84 ms/batch
+Val  : [094/120]	Loss: 1.1932	Top@1: 73.6000	Top@5: 92.0000	Speed: 101.56 ms/batch
+Train: [095/120]	Loss: 0.0348	Top@1: 99.9000	Top@5: 100.0000	Speed: 194.57 ms/batch	Data loading: 1.98 ms/batch
+Val  : [095/120]	Loss: 1.1495	Top@1: 73.6000	Top@5: 91.6000	Speed: 100.41 ms/batch
+Train: [096/120]	Loss: 0.0339	Top@1: 99.9500	Top@5: 99.9875	Speed: 194.33 ms/batch	Data loading: 1.95 ms/batch
+Val  : [096/120]	Loss: 1.1687	Top@1: 75.4000	Top@5: 91.2000	Speed: 99.89 ms/batch
+Train: [097/120]	Loss: 0.0327	Top@1: 99.9375	Top@5: 100.0000	Speed: 194.40 ms/batch	Data loading: 1.96 ms/batch
+Val  : [097/120]	Loss: 1.1732	Top@1: 74.6000	Top@5: 91.0000	Speed: 100.85 ms/batch
+Train: [098/120]	Loss: 0.0308	Top@1: 99.9500	Top@5: 100.0000	Speed: 194.43 ms/batch	Data loading: 1.97 ms/batch
+Val  : [098/120]	Loss: 1.1931	Top@1: 74.2000	Top@5: 91.4000	Speed: 100.27 ms/batch
+Train: [099/120]	Loss: 0.0305	Top@1: 99.9750	Top@5: 100.0000	Speed: 194.24 ms/batch	Data loading: 1.93 ms/batch
+Val  : [099/120]	Loss: 1.1568	Top@1: 74.6000	Top@5: 91.8000	Speed: 99.97 ms/batch
+Train: [100/120]	Loss: 0.0308	Top@1: 99.9625	Top@5: 100.0000	Speed: 194.53 ms/batch	Data loading: 2.05 ms/batch
+Val  : [100/120]	Loss: 1.1560	Top@1: 74.4000	Top@5: 90.8000	Speed: 99.56 ms/batch
+Train: [101/120]	Loss: 0.0507	Top@1: 99.8500	Top@5: 100.0000	Speed: 194.51 ms/batch	Data loading: 2.00 ms/batch
+Val  : [101/120]	Loss: 1.3639	Top@1: 68.8000	Top@5: 92.0000	Speed: 99.27 ms/batch
+Train: [102/120]	Loss: 0.0560	Top@1: 99.8125	Top@5: 99.9875	Speed: 194.30 ms/batch	Data loading: 1.89 ms/batch
+Val  : [102/120]	Loss: 1.2578	Top@1: 71.4000	Top@5: 90.4000	Speed: 100.28 ms/batch
+Train: [103/120]	Loss: 0.0588	Top@1: 99.8500	Top@5: 99.9875	Speed: 194.34 ms/batch	Data loading: 1.96 ms/batch
+Val  : [103/120]	Loss: 1.4110	Top@1: 68.8000	Top@5: 90.6000	Speed: 100.23 ms/batch
+Train: [104/120]	Loss: 0.0951	Top@1: 99.3625	Top@5: 99.9750	Speed: 194.55 ms/batch	Data loading: 1.95 ms/batch
+Val  : [104/120]	Loss: 1.3546	Top@1: 69.0000	Top@5: 89.8000	Speed: 100.25 ms/batch
+Train: [105/120]	Loss: 0.0737	Top@1: 99.7000	Top@5: 100.0000	Speed: 194.42 ms/batch	Data loading: 1.94 ms/batch
+Val  : [105/120]	Loss: 1.3188	Top@1: 71.0000	Top@5: 90.0000	Speed: 100.78 ms/batch
+Train: [106/120]	Loss: 0.0680	Top@1: 99.7250	Top@5: 99.9750	Speed: 194.36 ms/batch	Data loading: 1.77 ms/batch
+Val  : [106/120]	Loss: 1.4332	Top@1: 70.0000	Top@5: 90.8000	Speed: 99.19 ms/batch
+Train: [107/120]	Loss: 0.0636	Top@1: 99.7750	Top@5: 99.9750	Speed: 194.34 ms/batch	Data loading: 1.90 ms/batch
+Val  : [107/120]	Loss: 1.2869	Top@1: 72.4000	Top@5: 91.4000	Speed: 98.96 ms/batch
+Train: [108/120]	Loss: 0.0585	Top@1: 99.7875	Top@5: 99.9875	Speed: 194.32 ms/batch	Data loading: 1.87 ms/batch
+Val  : [108/120]	Loss: 1.2315	Top@1: 71.4000	Top@5: 92.0000	Speed: 99.60 ms/batch
+Train: [109/120]	Loss: 0.0482	Top@1: 99.8625	Top@5: 100.0000	Speed: 194.28 ms/batch	Data loading: 1.84 ms/batch
+Val  : [109/120]	Loss: 1.2837	Top@1: 72.0000	Top@5: 91.4000	Speed: 99.97 ms/batch
+Train: [110/120]	Loss: 0.0445	Top@1: 99.8750	Top@5: 99.9875	Speed: 194.46 ms/batch	Data loading: 2.08 ms/batch
+Val  : [110/120]	Loss: 1.2693	Top@1: 73.0000	Top@5: 91.2000	Speed: 99.25 ms/batch
+Train: [111/120]	Loss: 0.0407	Top@1: 99.9250	Top@5: 99.9750	Speed: 194.56 ms/batch	Data loading: 1.99 ms/batch
+Val  : [111/120]	Loss: 1.2126	Top@1: 73.8000	Top@5: 92.0000	Speed: 101.07 ms/batch
+Train: [112/120]	Loss: 0.0341	Top@1: 99.9375	Top@5: 100.0000	Speed: 194.39 ms/batch	Data loading: 1.90 ms/batch
+Val  : [112/120]	Loss: 1.2001	Top@1: 73.2000	Top@5: 92.0000	Speed: 100.72 ms/batch
+Train: [113/120]	Loss: 0.0318	Top@1: 99.9750	Top@5: 100.0000	Speed: 194.41 ms/batch	Data loading: 1.86 ms/batch
+Val  : [113/120]	Loss: 1.1514	Top@1: 74.8000	Top@5: 91.8000	Speed: 99.20 ms/batch
+Train: [114/120]	Loss: 0.0316	Top@1: 99.9875	Top@5: 100.0000	Speed: 194.37 ms/batch	Data loading: 1.85 ms/batch
+Val  : [114/120]	Loss: 1.1840	Top@1: 73.4000	Top@5: 92.6000	Speed: 99.71 ms/batch
+Train: [115/120]	Loss: 0.0316	Top@1: 99.9625	Top@5: 100.0000	Speed: 194.40 ms/batch	Data loading: 1.82 ms/batch
+Val  : [115/120]	Loss: 1.1920	Top@1: 73.2000	Top@5: 92.4000	Speed: 102.00 ms/batch
+Train: [116/120]	Loss: 0.0302	Top@1: 99.9500	Top@5: 100.0000	Speed: 194.46 ms/batch	Data loading: 2.01 ms/batch
+Val  : [116/120]	Loss: 1.1614	Top@1: 73.2000	Top@5: 92.2000	Speed: 101.75 ms/batch
+Train: [117/120]	Loss: 0.0302	Top@1: 99.9500	Top@5: 100.0000	Speed: 194.38 ms/batch	Data loading: 1.82 ms/batch
+Val  : [117/120]	Loss: 1.1812	Top@1: 73.0000	Top@5: 91.6000	Speed: 100.30 ms/batch
+Train: [118/120]	Loss: 0.0307	Top@1: 99.9625	Top@5: 100.0000	Speed: 194.45 ms/batch	Data loading: 1.98 ms/batch
+Val  : [118/120]	Loss: 1.1400	Top@1: 74.4000	Top@5: 92.4000	Speed: 102.48 ms/batch
+Train: [119/120]	Loss: 0.0287	Top@1: 99.9875	Top@5: 100.0000	Speed: 194.35 ms/batch	Data loading: 1.87 ms/batch
+Val  : [119/120]	Loss: 1.1528	Top@1: 74.2000	Top@5: 93.2000	Speed: 99.58 ms/batch
+Train: [120/120]	Loss: 0.0294	Top@1: 99.9125	Top@5: 100.0000	Speed: 194.52 ms/batch	Data loading: 2.03 ms/batch
+Val  : [120/120]	Loss: 1.1481	Top@1: 74.4000	Top@5: 92.4000	Speed: 99.66 ms/batch
