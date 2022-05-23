@@ -11,9 +11,9 @@ Dataset Kinetics 400 je možné stáhnout [zde](https://deepmind.com/research/op
 [HAA500](HAA500/) -> složka obsahující tooly pro zpracování a předzpracování datasetu HAA500<br />
 Dataset HAA500 je možné stáhnout [zde](https://www.cse.ust.hk/haa/).<br />
 [video_parser.py](HAA500/video_parser.py) -> Pro zpracování RGB/segmentovaných videí <br />
-<img src="img/segm_1.jpg " width="500" >
+<img src="img/segm_1.jpg " width="500" > <br />
 [optical_flow.py](HAA500/optical_flow.py) -> Pro zpracování optického toku <br />
-<img src="img/of_1.jpg " width="500" >
+<img src="img/of_1.jpg " width="500" > <br />
 
 
 
