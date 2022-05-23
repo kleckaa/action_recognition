@@ -18,6 +18,12 @@ Dataset Kinetics-400 je možné stáhnout [zde](https://github.com/IBM/action-re
 <img src="img/of_1.jpg " width="500" > <br />
 * [mean_std.py](HAA500/mean_std.py) -> Výpočet mean a std z datasetů <br />
 
+## I3D
+* Originální repozitář: [https://github.com/IBM/action-recognition-pytorch](https://github.com/IBM/action-recognition-pytorch)<br />
+* [train_main.py](I3D/train_main.py) -> Pro trénování I3D <br />
+* [test_main.py](I3D/test_main.py) -> Pro testování I3D <br />
+* Nejlépe natrénované modely z DP na RGB, segmentaci, optickém toku je možné stáhnou [zde](https://drive.google.com/drive/folders/1SlKmSZPQsmyVRqeRIeWmiIoNv5GWIk4M?usp=sharing)<br />
+
 ## Prace s natrénovanými modely
 * [model](model/) -> folder obsahující užitečné tooly pro zhodnocení modelů, spojení modelů a natrénování klasifikátorů <br />
 * [model_analysis.ipynb](model/model_analysis.ipynb) -> Analýza průběhu trénování modelů + vyhodnocení Top1, Top3, Top5 <br />
