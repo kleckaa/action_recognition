@@ -1,6 +1,5 @@
 # action_recognition
 
-[documents](documents/) -> pdf dokumentů
 
 ## Kinetics-400
 Předtrénované váhy pro I3D síť je možné stáhnout [zde]
