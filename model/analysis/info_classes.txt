@@ -1,0 +1,5 @@
+Sporty - 0
+Denni_cinnosti - 1
+Music_instrumenty - 2
+Hobbies - 3
+
