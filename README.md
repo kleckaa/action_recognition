@@ -13,7 +13,7 @@ Dataset HAA500 je možné stáhnout [zde](https://www.cse.ust.hk/haa/).<br />
 [video_parser.py](HAA500/video_parser.py) -> Pro zpracování RGB/segmentovaných videí <br />
 [optical_flow.py](HAA500/optical_flow.py) -> Pro zpracování optického toku <br />
 
-![](img/segm_1.jpg 'Ukazka segmentace' | width=100)<br />
+<img src="img/of_1.jpg " width="100" height="100">
 ![](img/of_1.jpg 'Ukázka optického toku' | width=100)<br />
 
 [model](model/) -> folder obsahující užitečné tooly pro zhodnocení modelů, spojení modelů a natrénování klasifikátorů <br />
