@@ -14,6 +14,6 @@ Dataset Kinetics 400 je možné stáhnout [zde](https://deepmind.com/research/op
 [model](model/) -> folder obsahující užitečné tooly pro zhodnocení modelů, spojení modelů a natrénování klasifikátorů <br />
 [model_analysis.ipynb](model/model_analysis.ipynb) -> Analýza průběhu trénování modelů + vyhodnocení Top1, Top3, Top5 <br />
 [softmax.py](model/softmax.py) -> Spojení A a Spojení B, [softmax_find_best.py](model/softmax_find_best.py) -> Pro nalezení idealnich parametru <br />
-[test_classifier.py](model/test_classifier.py) -> použití klasifikátorů (natrénovaný model: [modelSVM.npy](model/classif_m/modelSVM.npy)) , [train_classifier.py](model/train_classifier.py) -> trénování klasifikátorů
+[test_classifier.py](model/test_classifier.py) -> použití klasifikátorů (natrénovaný model: [modelSVM.npy](model/classif_m/)) , [train_classifier.py](model/train_classifier.py) -> trénování klasifikátorů
 
 
