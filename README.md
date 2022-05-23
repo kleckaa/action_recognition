@@ -15,7 +15,7 @@ Dataset Kinetics 400 je možné stáhnout [zde](https://deepmind.com/research/op
 <img src="img/segm_1.jpg " width="500" > <br />
 * [optical_flow.py](HAA500/optical_flow.py) -> Pro zpracování optického toku <br />
 <img src="img/of_1.jpg " width="500" > <br />
-
+* [mean_std.py](HAA500/mean_std.py) -> Výpočet mean a std z datasetů <br />
 
 ## Prace s natrénovanými modely
 * [model](model/) -> folder obsahující užitečné tooly pro zhodnocení modelů, spojení modelů a natrénování klasifikátorů <br />
