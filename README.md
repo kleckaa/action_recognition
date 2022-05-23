@@ -3,7 +3,8 @@
 [documents](documents/) -> pdf dokumentů
 
 ## Kinetics-400
-Dataset Kinetics-400 je možné stáhnout [zde](https://deepmind.com/research/open-source/kinetics).
+Předtrénované váhy pro I3D síť je možné stáhnout [zde]
+Dataset Kinetics-400 je možné stáhnout [zde](https://github.com/IBM/action-recognition-pytorch/releases/tag/weights-v0.1).
 [Data_loader_kin400.py](Kinetics-400/Data_loader_kin400.py) -> stažení datasetu pomocí knihovny **youtube-dl** a **ffmpeg** <br />
 [Data_loader_kin400_2.py](Kinetics-400/Data_loader_kin400_2.py) -> stažení datasetu pomocí knihovny **pytube** a **moviepy** <br />
 [kin400_analysis.ipynb](Kinetics-400/kin400_analysis.ipynb) -> analýza datasetu
